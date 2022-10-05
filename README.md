@@ -1,7 +1,7 @@
 ![MasterHead](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80)
 <h1 align="center">Hi 👋, I'm Marcos Rodríguez</h1>
 <h3 align="center">A junior developer from Spain.</h3>
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/RODiNw1qKHct74LACe/giphy.gif?cid=ecf05e47st04w84vnhkbe7pxmwha8nx5my8w5uzrdb4dquyg&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/RODiNw1qKHct74LACe/giphy.gif?cid=ecf05e47st04w84vnhkbe7pxmwha8nx5my8w5uzrdb4dquyg&rid=giphy.gif&ct=g"></br>
 
 
 - 🌱 I’m currently learning **Blockchain technologies (Hyperledger, Solidity...)**
